@@ -1,0 +1,14 @@
+{
+  "name": "using-puppeteer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node test/test.js"
+  },
+  "dependencies": {
+    "puppeteer": "^19.6.3"
+  },
+  "type": "module"
+}
